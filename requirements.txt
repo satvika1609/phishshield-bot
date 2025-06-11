@@ -1,4 +1,7 @@
-Flask==2.3.2
-twilio==9.0.0
-tldextract==3.4.4
+Flask
 gunicorn
+twilio
+pytesseract
+Pillow
+requests
+tldextract
